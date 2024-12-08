@@ -7,7 +7,7 @@ This GitHub repository will record my journey to become a DevOps engineer, step 
 The first step in my journey is to learn **Linux Fundamentals**.
 [Linux Fundamentals](linux.md)
 
-## Step 2: Giy Fundamentals
+## Step 2: Git Fundamentals
 
 The 2nd step in my journey is to learn **Git Fundamentals**.
 [Git Fundamentals](git.md)
