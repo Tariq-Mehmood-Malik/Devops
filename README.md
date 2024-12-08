@@ -9,5 +9,5 @@ The first step in my journey is to learn **Linux Fundamentals**.
 
 ## Step 2: Git Fundamentals
 
-The 2nd step in my journey is to learn **Git Fundamentals**.
-[Git Fundamentals](git.md)
+The 2nd step in my journey is to learn **Git Commands**.
+[Git Commands](git.md)
