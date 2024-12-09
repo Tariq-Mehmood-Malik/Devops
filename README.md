@@ -15,7 +15,7 @@ The 2nd step in my journey is to learn **Git Commands**.
 ## Step 3: Ansible
 
 The 3rd step in my journey is to learn **Ansible Automation**.
-[Ansible AUtomation]([git.md](https://github.com/Tariq-Mehmood-Malik/Ansible-Handbook))
+[Ansible Automation](https://github.com/Tariq-Mehmood-Malik/Ansible-Handbook)
 
 ## Step 4: Docker
 
