@@ -40,9 +40,11 @@
 
 ## File & Directory Operations
 - `ls` – List files and directories
-  ```bash
-  ls
-  ```
+- `ls -l`: Lists files in long format, showing permissions, owner, size, etc.
+- `ls -a`: Shows hidden files (those starting with `.`).
+- `ls -lh`: Lists files with human-readable sizes.
+- `ls -R`: Recursively lists subdirectories.
+- `ls -la`: Combines `-l` and `-a`.
 - `cd` – Change directory
   ```bash
   cd /home/user/Documents
@@ -118,6 +120,19 @@
 
 
 ## Process Management
+- `systemctl` - Used to examine and control the systemd system and service manager. It can start, stop, enable, disable, and check the status of system services.
+    To check the status of a service:
+    ```bash
+    systemctl status apache2
+    ```
+    To start a service:
+    ```bash
+    sudo systemctl start apache2
+    ```
+    To enable a service at boot:
+    ```bash
+    sudo systemctl enable apache2
+    ```
 - `ps` – View running processes
   ```bash
   ps aux  # View all running processes
@@ -201,6 +216,15 @@
 
 ## Package Management
 
+- `dpkg -i name.deb` - Installs a `.deb` package file.
+  
+    ```bash
+    sudo dpkg -i example-package.deb
+    ```     
+    If there are dependency issues, you can resolve them with:
+    ```bash
+    sudo apt-get install -f
+    ```
 - `apt-get` – Install, update, and remove packages
   ```bash
   sudo apt-get install package_name
@@ -222,8 +246,7 @@
 - `sort` – Sort lines in a file
   ```bash
   sort file.txt
-  ```
-
+  ``` 
 ## Archiving & Compression
 - `tar` – Archive files (with or without compression)
   ```bash
@@ -302,5 +325,6 @@
   sudo halt
   ```
 
+## Others
 
 
