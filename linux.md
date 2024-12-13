@@ -3,7 +3,7 @@
 ---
 ## Table of Contents
 
-**[Linux Basic Commands](#linux-asic-commands)**
+**[Linux Basic Commands](#linux-basic-commands)**
 -  [File & Directory Operations](#file--directory-operations)
 -  [File Permissions](#file-permissions)
 -  [Process Management](#process-management)
