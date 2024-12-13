@@ -1,6 +1,21 @@
 # Linux Fundamental 
 
 ---
+## Table of Contents
+
+**[Linux Basic Commands](#linux-asic-commands)**
+-  [File & Directory Operations](#file--directory-operations)
+-  [File Permissions](#file-permissions)
+-  [Process Management](#process-management)
+-  [System Information](#system-information)
+-  [Networking](#networking)
+-  [Package Management](#package-management)
+-  [Text Processing](#text-processing)
+-  [Archiving & Compression](#archiving--compression)
+-  [File Search](#file-search)
+-  [User Management](#user-management)
+-  [System Shutdown & Reboot](#system-shutdown--reboot)
+
 # Linux Basic Commands
 ## File & Directory Operations
 - `ls` – List files and directories
@@ -108,7 +123,7 @@
   ```bash
   df -h  # Human-readable format
   ```
--  `du` – Display file and directory space usage
+- `du` – Display file and directory space usage
   ```bash
   du -sh /path/to/directory
   ```
