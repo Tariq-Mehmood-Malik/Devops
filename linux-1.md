@@ -3,8 +3,9 @@
 ---
 ## Table of Contents
 
-**[Linux Basic Commands](#linux-basic-commands)**
+**[Linux Basic Commands](#linux-basic-commands)**    
 **[Bash Scripting](#bash-scripting.md)**
+
 
 
 # Linux Basic Commands
