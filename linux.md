@@ -16,6 +16,7 @@
 -  [File Search](#file-search)
 -  [User Management](#user-management)
 -  [System Shutdown & Reboot](#system-shutdown--reboot)
+-  [Others](#others)
 
 
 # Linux Basic Commands
