@@ -4,6 +4,7 @@
 ## Table of Contents
 
 **[Linux Basic Commands](#linux-basic-commands)**
+-  [Sysytem Information](#sysytem-information)
 -  [File & Directory Operations](#file--directory-operations)
 -  [File Permissions](#file-permissions)
 -  [Process Management](#process-management)
@@ -16,7 +17,27 @@
 -  [User Management](#user-management)
 -  [System Shutdown & Reboot](#system-shutdown--reboot)
 
+
 # Linux Basic Commands
+## System Information
+- `hostname`
+  Displays or sets the system's hostname.
+  ```bash
+  hostname
+  ```     
+  To set a new hostname:    
+  ```bash
+  sudo hostname new-hostname
+  ```
+- `whoami`
+  Displays the current logged-in user's name.
+  ```bash
+  whoami
+  ```
+
+
+
+
 ## File & Directory Operations
 - `ls` – List files and directories
   ```bash
