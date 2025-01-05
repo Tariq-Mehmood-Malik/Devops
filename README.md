@@ -18,3 +18,7 @@ The 3rd step in my journey is to learn
 ## Step 4: Docker
 
 The 4th step in my journey is to learn **[Docker](https://github.com/Tariq-Mehmood-Malik/Docker)**
+
+## Step 5: Kubernetes
+
+The 5th step in my journey is to learn **[Kubernetes](https://github.com/Tariq-Mehmood-Malik/Kubernetes)**
